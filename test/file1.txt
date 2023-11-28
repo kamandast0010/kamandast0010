@@ -1,4 +1,1 @@
-Hello World
-On GitHub.com, navigate to the main page of the repository. Under your repository name, click Settings.
-If you cannot see the "Settings" tab, select the dropdown menu, then click Settings.
-Scroll down to the "Danger Zone" section and click Delete this repository.
+just trying to see how this collaboration thing works
