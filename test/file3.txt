@@ -1,0 +1,6 @@
+How do I remove a repository from a repository?
+If you have a nested repository inside your project repository:
+delete its subfolder.
+delete the gitlink entry (the element named after that subfolder name) git rm --cached subfolder # no trailing /
+commit the deletion git commit -m "Record subfolder gitlink deletion"
+git push to complete the process.
